@@ -1,0 +1,2 @@
+<h2 style="text-align: center;"><span id="isPasted" style="background-color: #ffffff;">Il gaspille tout son argent car il est triste et devient pauvre</span></h2>
+<p style="text-align: center;"><img class="fr-fic fr-dib" style="width: 435px;" src="MESSI%20POBRE.png" /></p><body background="FONDO POBRE.jpg">
